@@ -1,7 +1,4 @@
-/*
-  Sưu tầm bởi @nguyenvanhieuvn
-  Thực hành nhiều bài tập hơn tại https://luyencode.net/
-*/
+
 
 #include<stdio.h>
 #include<conio.h>
